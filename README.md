@@ -32,7 +32,7 @@ The `Calculator` class handles the mathematical logic and includes:
 - `get_expression()`: Returns the current expression.
 
 ### View (GUI Design)
-The GUI is built using PyQt5 and includes:
+The GUI is built using PyQt6 and includes:
 - `QLineEdit` for displaying input and results.
 - QPushButtons for digits (0-9) and arithmetic operators (+, -, *, /, =, C).
 
